@@ -13,8 +13,8 @@ Algorithms that i made two years ago, from yandex school opened lessons.
 - QuickSort
 - HeapSort
 
-- BST tree (bad realization:)
-- AVL tree (bad realization:)
+- BST tree bad realization:)
+- AVL tree bad realization:)
 
 - SimpleGraph
 
