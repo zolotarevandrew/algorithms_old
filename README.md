@@ -1,2 +1,2 @@
-# algorithms_old
-Algorithms that i made two years ago, by yandex school and other.
+# algorithms_yandex
+Algorithms that i made two years ago, from yandex school opened lessons.
